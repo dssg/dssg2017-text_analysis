@@ -1,0 +1,9 @@
+numpy
+matplotlib
+nltk
+sklearn
+ujson
+scipy
+jupyter
+progressbar2
+pandas
